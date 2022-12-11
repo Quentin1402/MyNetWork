@@ -1,0 +1,89 @@
+{
+  "users": [
+    {
+      "email": "a@a.com",
+      "password": "123456",
+      "role": "client",
+      "id": 6
+    },
+    {
+      "pseudo": "bbb",
+      "email": "b@b.com",
+      "password": "bbbbbb",
+      "role": "client",
+      "id": 7
+    },
+    {
+      "pseudo": "ccc",
+      "email": "c@c.com",
+      "password": "cccccc",
+      "role": "client",
+      "id": 8
+    },
+    {
+      "pseudo": "ddd",
+      "email": "d@d.com",
+      "password": "dddddd",
+      "role": "client",
+      "id": 9
+    },
+    {
+      "pseudo": "eee",
+      "email": "e@e.com",
+      "password": "eeeeee",
+      "role": "client",
+      "id": 10
+    },
+    {
+      "pseudo": "fff",
+      "email": "f@f.com",
+      "password": "ffffff",
+      "role": "client",
+      "id": 11
+    },
+    {
+      "pseudo": "ggg",
+      "email": "g@g.com",
+      "password": "gggggg",
+      "role": "client",
+      "id": 12
+    },
+    {
+      "pseudo": "hhh",
+      "email": "h@h.com",
+      "password": "hhhhhh",
+      "id": 13
+    },
+    {
+      "pseudo": "ttt",
+      "email": "t@t.com",
+      "password": "tttttt",
+      "id": 14
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "contenu": "lorem ipsum",
+      "urlImgArticle": "https://source.unsplash.com/random/1000x300",
+      "like": 2,
+      "pseudo": "Alain",
+      "": "",
+      "date": 1649277945051,
+      "commentaires": [
+        {
+          "id": 1,
+          "contenu": "lorem ipsum",
+          "pseudo": "Béatrice",
+          "dt": 1649277945051
+        },
+        {
+          "id": 2,
+          "contenu": "lorem ipsum",
+          "pseudo": "Béatrice",
+          "dt": 1649277945051
+        }
+      ]
+    }
+  ]
+}
